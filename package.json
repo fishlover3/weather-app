@@ -2,7 +2,7 @@
   "name": "first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fishlover3.github.io/react-weather",
+  "homepage": "https://fishlover3.github.io/weather-app",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
